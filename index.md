@@ -9,7 +9,7 @@
 | Strength     | 16    | +3    | +3            |
 | Dexterity    | 12    | +1    | +1            |
 | Constitution | 14    | +2    | +2            |
-| Intelligence | 19    | -1    | -1            |
+| Intelligence |  9    | -1    | -1            |
 | Wisdom       | 12    | +1    | +3            |
 | Charisma     | 15    | +2    | +4            |
 
