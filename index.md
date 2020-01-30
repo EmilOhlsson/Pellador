@@ -17,25 +17,26 @@
 |-------------------|-------------|--------------------|-----------|
 | +2                | 11          | 11                 | 12        |
 
-| Skill             | Bonus   |
-| ----------------- | ------- |
-| Animal Handling   | +1      |
-| Arcana            | -1      |
-| Athletics         | +3      |
-| Deception         | +2      |
-| History           | -1      |
-| Insight           | +3      |
-| *Intimidation*    | +4      |
-| Investigation     | -1      |
-| *Medicine*        | +3      |
-| Nature            | -1      |
-| Perception        | +1      |
-| Performance       | +2      |
-| Persuasion        | +2      |
-| Religion          | +1      |
-| Sleight of Hand   | +1      |
-| Stealth           | +1      |
-| Survival          | +1      |
+|     | Skill             | Ability | Bonus   |
+| --- | ----------------- | -----   | ------- |
+|     | Acrobatics        | Dex     | +1      |
+|     | Animal Handling   | Wis     | +1      |
+|     | Arcana            | Int     | -1      |
+|     | Athletics         | Str     | +3      |
+|     | Deception         | Cha     | +2      |
+|     | History           | Int     | -1      |
+|     | Insight           | Wis     | +3      |
+| *   | *Intimidation*    | Cha     | +4      |
+|     | Investigation     | Int     | -1      |
+| *   | *Medicine*        | Wis     | +3      |
+|     | Nature            | Int     | -1      |
+|     | Perception        | Wis     | +1      |
+|     | Performance       | Cha     | +2      |
+|     | Persuasion        | Cha     | +2      |
+|     | Religion          | Int     | +1      |
+|     | Sleight of Hand   | Dex     | +1      |
+|     | Stealth           | Dex     | +1      |
+|     | Survival          | Wis     | +1      |
 
 | Actions     | Value | Description                                                        |
 | -------     | ----- | -----------                                                        |
