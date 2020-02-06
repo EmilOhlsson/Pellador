@@ -1,8 +1,8 @@
 # Pellador
 
-| Race        | Alignment     | XP  |
-| ------------| ------------- | --- |
-| Human       | Lawful good   | 0   |
+| Race        | Alignment     | XP  | Proficiency Bonus | Armor class | Passive perception | Hitpoints |
+| ------------| ------------- | --- |-------------------|-------------|--------------------|-----------|
+| Human       | Lawful good   | 0   | +2                | 11          | 11                 | 12        |
 
 | Attribute    | Score | Bonus | Saving throws |
 |--------------|-------|-------|---------------|
@@ -13,9 +13,9 @@
 | Wisdom       | 12    | +1    | +3            |
 | Charisma     | 15    | +2    | +4            |
 
-| Proficiency Bonus | Armor class | Passive perception | Hitpoints |
-|-------------------|-------------|--------------------|-----------|
-| +2                | 11          | 11                 | 12        |
+| Feat            | Description                                             |
+| ----            | -----------                                             |
+| Savage attacker | Reroll melee damage once per turn, choose either result |
 
 |     | Skill             | Ability | Bonus   |
 | --- | ----------------- | -----   | ------- |
@@ -42,3 +42,11 @@
 | -------     | ----- | -----------                                                        |
 | Dvine sense | 3     | Within 20m, detect presence of undead, celestial or fiend          |
 | Lay on Hans | 5     | Healing pool of 5, expend all to cure disease or neutralize poison |
+
+## Background
+* Temple guard from Khunapur
+* Brought to the east as part of a Caravan
+* Caravan was raided
+* Trying to find his way
+* Traveling the world opened eyes
+* Has seen the beauty in nature, and wants to protect it
