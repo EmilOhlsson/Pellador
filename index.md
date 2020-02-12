@@ -2,7 +2,7 @@
 
 | Race        | Alignment     | XP  | Proficiency Bonus | Armor class | Passive perception | Hitpoints |
 | ------------| ------------- | --- |-------------------|-------------|--------------------|-----------|
-| Human       | Lawful good   | 0   | +2                | 11          | 11                 | 12        |
+| Human       | Lawful good   | 0   | +2                |~11~ 16      | 11                 | 12        |
 
 | Attribute    | Score | Bonus | Saving throws |
 |--------------|-------|-------|---------------|
@@ -42,6 +42,22 @@
 | -------     | ----- | -----------                                                        |
 | Dvine sense | 3     | Within 20m, detect presence of undead, celestial or fiend          |
 | Lay on Hans | 5     | Healing pool of 5, expend all to cure disease or neutralize poison |
+
+| Eq. | Item                | Dmg/AC       | Weight | Properties           |
+| --  | ----------          | ------       | ------ | ----------           |
+| *   | Chainmail           | AC 16        | 55 lb. | stealth disadvantage |
+| *   | Glaive              | 1d10 (slash) | 6 lb.  |                      |
+|     | whip                | 1d4  (slash) | 3 lb.  |                      |
+|     | net                 | throwing     | 3 lb.  |                      |
+| *   | Amulet              | Holy symbol  |        |                      |
+|     | backpack            |              |        |                      |
+|     | bedroll             |              |        |                      |
+|     | mess kit            |              |        |                      |
+|     | tinderbox           |              |        |                      |
+|     | 10 torches          |              |        |                      |
+|     | rations for 10 days |              |        |                      |
+|     | waterskin           |              |        |                      |
+|     | 50 feet of rope     |              |        |                      |
 
 ## Background
 * Temple guard from Khunapur
